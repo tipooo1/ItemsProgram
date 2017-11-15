@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\ItemsProgram\ItemsProgram\obj\Release\ItemsProgram.exe
+C:\Users\Administrator\Desktop\ItemsProgram\ItemsProgram\obj\Release\ItemsProgram.pdb
+C:\Users\Administrator\Desktop\ItemsProgram\ItemsProgram\obj\Release\GoodsEditor.GoodsEditor.resources
+C:\Users\Administrator\Desktop\ItemsProgram\ItemsProgram\obj\Release\GoodsEditor.GoodsEnumNatrues.resources
+C:\Users\Administrator\Desktop\ItemsProgram\ItemsProgram\obj\Release\GoodsEditor.GoodsControl.resources
+C:\Users\Administrator\Desktop\ItemsProgram\ItemsProgram\obj\Release\GoodsEditor.GoodsInfoMation.resources
+C:\Users\Administrator\Desktop\ItemsProgram\ItemsProgram\obj\Release\ItemsProgram.Properties.Resources.resources
+C:\Users\Administrator\Desktop\ItemsProgram\ItemsProgram\obj\Release\GoodsEditor.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\ItemsProgram\ItemsProgram\obj\Release\GoodsEditor.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\ItemsProgram\ItemsProgram\bin\Release\ItemsProgram.exe.config
+C:\Users\Administrator\Desktop\ItemsProgram\ItemsProgram\bin\Release\ItemsProgram.exe
+C:\Users\Administrator\Desktop\ItemsProgram\ItemsProgram\bin\Release\ItemsProgram.pdb
